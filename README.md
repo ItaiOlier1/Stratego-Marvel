@@ -6,7 +6,7 @@ The goal of every player is to get the other's player flag.
 In this case, this is not a regular Stratego. this is Stratego Marvel, so the winner is the one who get's the Infinity Glove of the other player.
 
 # Cards
-card 1 - Stronger then 10
+card 1 - Stronger then 10\n
 card 2 - Stronger then 1
 card 3 - Stronger than 1, 2 and defuses bombs
 card 4 - Stronger than 1, 2, 3
